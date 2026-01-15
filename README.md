@@ -4,7 +4,7 @@ ROS2 driver for UseePlus/SuperCamera USB borescope/endoscope cameras.
 
 **Supported cameras:** USB devices with VID:2ce3 PID:3828 (commonly sold as "UseePlus", "Geek Szitman", or generic USB borescope cameras)
 
-**Tested on:** Ubuntu 18.04, 20.04, 22.04 with ROS2 Humble/Iron
+**Tested on:** Ubuntu 22.04 with ROS2 Humble. For 20.04 Ubuntu 20.04 snd ROS Noetic switch to the ros1 branch.
 
 ## Quick Start
 
@@ -109,4 +109,4 @@ MIT License
 
 ## Contributing
 
-Pull requests welcome! Please test on Ubuntu 18.04/20.04/22.04 before submitting.
+Pull requests welcome! Please test on Ubuntu 20.04/22.04 before submitting.
